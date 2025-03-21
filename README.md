@@ -14,7 +14,7 @@
 
 ## 🏗️ Tech Stack
 
-- **Backend**: Flask, Odoo, SQLAlchemy, Flask-Login, Flask-SocketIO
+- **Backend**: Flask,SQLAlchemy, Flask-Login, Flask-SocketIO
 - **Frontend**: React.js, Tailwind CSS, Leaflet.js
 - **Database**: PostgreSQL
 - **Hardware Integration**: Teltonika FMC920 GPS Tracker
