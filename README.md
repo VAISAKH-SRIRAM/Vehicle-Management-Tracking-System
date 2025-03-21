@@ -104,5 +104,30 @@ We use **Leaflet.js** for interactive maps. The system fetches real-time data fr
 This project is licensed under the APACHE 2.0 LICENSE.
 
 ---
+![Screenshot from 2025-03-21 12-11-30](https://github.com/user-attachments/assets/2c5d11e5-19bf-4894-91b3-94bbf6123d83)
+
+![Screenshot from 2025-03-21 11-33-08](https://github.com/user-attachments/assets/c2bf0227-5b75-49e0-9c7e-28443af7f1f6)
+
+![Screenshot from 2025-03-21 12-10-57](https://github.com/user-attachments/assets/97fe5bb3-024e-45c7-a129-b436f38a5230)
+
+![Screenshot from 2025-03-21 12-10-59](https://github.com/user-attachments/assets/48437195-31fd-4648-94e7-0edd53cb5937)
+
+![Screenshot from 2025-03-21 12-11-03](https://github.com/user-attachments/assets/79c19f25-1b9a-447c-9a0b-2f407219c1f1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
