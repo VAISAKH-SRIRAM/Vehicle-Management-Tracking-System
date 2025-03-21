@@ -101,7 +101,7 @@ We use **Leaflet.js** for interactive maps. The system fetches real-time data fr
 
 ## 📜 License
 
-This project is licensed under the ** Apache-2.0-License**.
+This project is licensed under the ** Apache_2.0_License**.
 
 ---
 
