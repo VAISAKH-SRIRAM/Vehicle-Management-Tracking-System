@@ -1,0 +1,79 @@
+Develop a web application called "VMAT System" that focuses exclusively on real-time vehicle tracking. The system should provide live tracking on dynamic maps, detailed vehicle management, historical route analysis, geofencing capabilities, customizable alerts, and user access control, all while offering robust API integrations and security measures.
+
+Key Features & Requirements:
+
+Live Tracking
+
+Real-Time GPS Tracking:
+Integrate with mapping services (e.g., OpenStreetMap or Google Maps) to display vehicles on a live map.
+Ensure positions update dynamically as vehicles move.
+Movement Updates & Indicators:
+Display real-time speed, direction (heading), and altitude where applicable.
+Use visual indicators (e.g., arrows or icons) to illustrate movement direction and speed.
+Vehicle Management
+
+Vehicle List & CRUD Operations:
+Provide a dashboard to view, add, edit, or remove vehicles.
+Display essential vehicle details such as vehicle name, unique identifier (e.g., vehicle ID or registration number), online/offline status, last update time, and ignition state.
+Status Monitoring:
+Implement real-time status updates with clear visual cues indicating whether vehicles are active or inactive.
+Historical Data & Reports
+
+Trip History:
+Enable playback of past vehicle routes with controls for play, pause, rewind, and fast-forward.
+Reports Generation:
+Generate reports detailing:
+Distance traveled
+Stops and idle times
+Driver behavior (e.g., harsh acceleration/braking)
+Fuel consumption (if supported by the vehicle sensors)
+Geofencing
+
+Virtual Boundaries:
+Allow users to create and manage geofences (e.g., designated areas such as “Warehouse” or “Restricted Zone”).
+Alerts:
+Automatically trigger notifications when a vehicle enters or exits a geofenced area.
+Alerts & Notifications
+
+Custom Triggers:
+Set up alerts for events such as:
+Speeding (exceeding predefined limits)
+Ignition on/off events
+Low battery warnings (if applicable)
+Geofence breaches
+Notification Methods:
+Support various notification channels such as email, SMS, and in-app notifications.
+User Management
+
+Multi-User Support:
+Implement user authentication with roles (e.g., admin, user) and permissions.
+Vehicle Grouping:
+Allow organization of vehicles into groups (e.g., by fleet, region, or department).
+Map Tools & Navigation
+
+Layer Selection & Map Provider Switch:
+Enable users to choose between different map providers (e.g., OpenStreetMap, Google Maps) and layers.
+Navigation Tools:
+Provide standard map navigation features such as zoom, pan, and scroll.
+Address Lookup:
+Include a search function to locate addresses or coordinates on the map.
+Integration & APIs
+
+API Access:
+Provide RESTful APIs to integrate with third-party applications and services.
+Protocol Support:
+Ensure compatibility with multiple GPS tracking protocols (e.g., GT06, GL200, Teltonika) for a variety of vehicle tracking devices.
+Security
+
+Authentication & Authorization:
+Secure user login with username/password (demo credentials: admin/admin).
+Data Encryption:
+Use HTTPS for all data transmissions to ensure secure communication.
+Additional Security Measures:
+Implement session management, rate limiting, and audit logs.
+Customization & Advanced Settings
+
+User Interface Customization:
+Allow customization of map layers, measurement units (km/miles), and time zones.
+Advanced Server & System Settings:
+Provide settings for server configuration, API rate limits, and data retention policies for self-hosted instances.
